@@ -8,7 +8,7 @@ setuptools.setup(
   author='JIMINGOO',
   author_email='greenify_88@naver.com',
   url = "https://github.com/JIMINGOO/calc_practice",
-  download_url = "",
+  download_url = "https://github.com/JIMINGOO/calc_practice/archive/refs/tags/v1.0.0.zip",
   install_requires=['pytest'],
   long_description = 'oss-dev calculator python module',
   long_description_content_type = 'text/markdown',
