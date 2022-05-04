@@ -2,9 +2,9 @@ import setuptools
 
 setuptools.setup(
   include_package_data = True,
-  name='mycalc0001',
-  version='0.0.1',
-  description='oss-dev my calculator 0001',
+  name='mycalc88',
+  version='0.0.2',
+  description='oss-dev my calculator 88',
   author='JIMINGOO',
   author_email='greenify_88@naver.com',
   url = "https://github.com/JIMINGOO/calc_practice",
